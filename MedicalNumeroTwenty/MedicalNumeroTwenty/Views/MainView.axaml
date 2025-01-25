@@ -1,0 +1,18 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:vm="clr-namespace:MedicalNumeroTwenty.ViewModels"
+             mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+             x:Class="MedicalNumeroTwenty.Views.MainView"
+             x:DataType="vm:MainViewModel">
+  <Grid VerticalAlignment="Center" HorizontalAlignment="Center" ColumnDefinitions="*, *" RowDefinitions="*, *, *, *, *">
+      <Label Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="2"  Content="Милости прошу к нашему шалашу." Margin="10"/>
+      <Label Grid.Row="1" Grid.Column="0" Content="логин: " HorizontalAlignment="Right"/>
+      <TextBox Grid.Row="1" Grid.Column="1" Name="LoginTb" HorizontalAlignment="Left"/>
+      <Label Grid.Row="2" Grid.Column="0" Content="пароль: " HorizontalAlignment="Right"/>
+      <TextBox Grid.Column="1" Grid.Row="2" PasswordChar="*" Name="PasswordTb" HorizontalAlignment="Left"/>
+      <Button Grid.Column="0" Grid.Row="3" Grid.ColumnSpan="2" Name="ShowPasswordBtn" HorizontalAlignment="Center" Height="30" Width="120" Content="Показать пароль"/>
+      <Button Grid.Column="0" Grid.Row="4" Grid.ColumnSpan="2" Name="LoginBtn" HorizontalAlignment="Center" Height="30" Width="120" Content="Лог-ин"/>
+  </Grid>
+</UserControl>

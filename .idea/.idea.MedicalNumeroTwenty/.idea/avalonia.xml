@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="MedicalNumeroTwenty/MedicalNumeroTwenty/App.axaml" value="MedicalNumeroTwenty/MedicalNumeroTwenty.Desktop/MedicalNumeroTwenty.Desktop.csproj" />
+        <entry key="MedicalNumeroTwenty/MedicalNumeroTwenty/Views/MainView.axaml" value="MedicalNumeroTwenty/MedicalNumeroTwenty.Browser/MedicalNumeroTwenty.Browser.csproj" />
+      </map>
+    </option>
+  </component>
+</project>

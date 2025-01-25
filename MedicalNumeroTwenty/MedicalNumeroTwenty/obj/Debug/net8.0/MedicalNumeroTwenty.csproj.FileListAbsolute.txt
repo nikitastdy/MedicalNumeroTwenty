@@ -1,0 +1,16 @@
+/home/student/RiderProjects/MedicalNumeroTwenty/MedicalNumeroTwenty/MedicalNumeroTwenty/obj/Debug/net8.0/MedicalNumeroTwenty.csproj.AssemblyReference.cache
+/home/student/RiderProjects/MedicalNumeroTwenty/MedicalNumeroTwenty/MedicalNumeroTwenty/obj/Debug/net8.0/Avalonia/Resources.Inputs.cache
+/home/student/RiderProjects/MedicalNumeroTwenty/MedicalNumeroTwenty/MedicalNumeroTwenty/obj/Debug/net8.0/Avalonia/resources
+/home/student/RiderProjects/MedicalNumeroTwenty/MedicalNumeroTwenty/MedicalNumeroTwenty/obj/Debug/net8.0/MedicalNumeroTwenty.GeneratedMSBuildEditorConfig.editorconfig
+/home/student/RiderProjects/MedicalNumeroTwenty/MedicalNumeroTwenty/MedicalNumeroTwenty/obj/Debug/net8.0/MedicalNumeroTwenty.AssemblyInfoInputs.cache
+/home/student/RiderProjects/MedicalNumeroTwenty/MedicalNumeroTwenty/MedicalNumeroTwenty/obj/Debug/net8.0/MedicalNumeroTwenty.AssemblyInfo.cs
+/home/student/RiderProjects/MedicalNumeroTwenty/MedicalNumeroTwenty/MedicalNumeroTwenty/obj/Debug/net8.0/MedicalNumeroTwenty.csproj.CoreCompileInputs.cache
+/home/student/RiderProjects/MedicalNumeroTwenty/MedicalNumeroTwenty/MedicalNumeroTwenty/obj/Debug/net8.0/Avalonia/MedicalNumeroTwenty.dll
+/home/student/RiderProjects/MedicalNumeroTwenty/MedicalNumeroTwenty/MedicalNumeroTwenty/obj/Debug/net8.0/Avalonia/MedicalNumeroTwenty.pdb
+/home/student/RiderProjects/MedicalNumeroTwenty/MedicalNumeroTwenty/MedicalNumeroTwenty/obj/Debug/net8.0/refint/Avalonia/MedicalNumeroTwenty.dll
+/home/student/RiderProjects/MedicalNumeroTwenty/MedicalNumeroTwenty/MedicalNumeroTwenty/bin/Debug/net8.0/MedicalNumeroTwenty.deps.json
+/home/student/RiderProjects/MedicalNumeroTwenty/MedicalNumeroTwenty/MedicalNumeroTwenty/bin/Debug/net8.0/MedicalNumeroTwenty.dll
+/home/student/RiderProjects/MedicalNumeroTwenty/MedicalNumeroTwenty/MedicalNumeroTwenty/bin/Debug/net8.0/MedicalNumeroTwenty.pdb
+/home/student/RiderProjects/MedicalNumeroTwenty/MedicalNumeroTwenty/MedicalNumeroTwenty/obj/Debug/net8.0/ref/MedicalNumeroTwenty.dll
+/home/student/RiderProjects/MedicalNumeroTwenty/MedicalNumeroTwenty/MedicalNumeroTwenty/bin/Debug/net8.0/MedicalNumeroTwenty.runtimeconfig.json
+/home/student/RiderProjects/MedicalNumeroTwenty/MedicalNumeroTwenty/MedicalNumeroTwenty/obj/Debug/net8.0/MedicalNumeroTwenty.genruntimeconfig.cache
